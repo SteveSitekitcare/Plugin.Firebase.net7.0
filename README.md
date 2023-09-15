@@ -1,0 +1,1 @@
+# Plugin.Firebase.net7.0
